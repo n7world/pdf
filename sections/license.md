@@ -68,7 +68,7 @@ ___
 __MASS EFFECT__ Copyright 2003-2008 EA International (Studio and Publishing) Ltd. Mass Effect, the Mass Effect logo, BioWare, the BioWare logo and the BioWare hands logo are either registered trademarks or trademarks of EA International (Studio and Publishing) Ltd. in the United States and other countries. 
 
 ___
-__N7 World Homebrew__ Copyright 2018, N7 World; Author Luke Aeschleman, based on original material by Wizards of the Coast, Inc. and Electronic Arts Inc. and BioWare.
+__N7 World Homebrew__ Copyright 2020, N7 World; Author Luke Aeschleman, based on original material by Wizards of the Coast, Inc. and Electronic Arts Inc. and BioWare.
 
 
 

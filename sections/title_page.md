@@ -3,13 +3,22 @@
   .phb#p1:after{ display:none; }
 </style>
 
-<div style='margin-top:750px;'></div>
+<div style='margin-top:450px;'></div>
 
-<img 
-  src='https://n7.world/images/me5e_logo_1200w.png' 
-  style='position:absolute; top:250px; left:81px; width:80%' />
+# N7 World
 
 <div style='margin-top:25px'></div>
 <div class='wide'>
-##### Mass Effect + D&D 5th Edition
+##### A Mass Effect TTRPG
+</div>
+
+
+<div style='margin-top:1125px'></div>
+<div class='wide'>
+  ### Version 1.2
+  
+  Online Manual at: https://n7.world
+  
+  <br>
+  Player's Manual created with [The Homebrewery](https://homebrewery.naturalcrit.com)
 </div>
